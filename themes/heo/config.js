@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Learn And Share', 
-  HEO_HERO_TITLE_2: 'Think And Express',
+  HEO_HERO_TITLE_1: '学习，分享',  
+  HEO_HERO_TITLE_2: '思考，表达',
   HEO_HERO_TITLE_3: 'ONEFREEDOMLAND.COM',
   
 
@@ -40,7 +40,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
