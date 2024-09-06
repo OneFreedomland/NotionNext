@@ -15,7 +15,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '学习，分享',  
+  HEO_HERO_TITLE_1: '学习，分享；',  
   HEO_HERO_TITLE_2: '思考，表达',
   HEO_HERO_TITLE_3: 'ONEFREEDOMLAND.COM',
   
